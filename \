@@ -1,4 +1,0 @@
-Given a set of resistors, find the combination closest to the desired value.
-
-Result is a closest value and combination used to acheive
-If the desired value is not provided, all possibilities are printed out.
